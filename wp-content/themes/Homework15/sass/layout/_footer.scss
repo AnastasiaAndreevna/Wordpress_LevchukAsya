@@ -1,0 +1,36 @@
+.links-background {
+    ul {
+        display: inline-block;
+        text-align: center;
+        padding-left: 170px;
+        margin-top: 60px;
+        margin-bottom: 60px;
+
+        a {
+            color: $main-color;
+            font-family: Roboto sans-serif;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 36px;
+
+            &:hover {
+                color: #612316;
+            }
+        }
+    }
+}
+
+.footer-background {
+    height: 38vh;
+    margin-top: -18px;
+
+    p {
+        color: $main-color;
+        font-family: "Proxima Nova", sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 24px;
+        text-align: center;
+        padding-top: 4vw;
+    }
+}

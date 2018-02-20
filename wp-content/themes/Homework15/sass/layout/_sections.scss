@@ -1,0 +1,84 @@
+.ournews {
+    background-color: $main-bgcolor;
+}
+
+.links-background {
+    background: #d75d0e;
+}
+
+.title {
+    color: $main-color;
+    font-family: "Roboto Slab", sans-serif;
+    line-height: 48px;
+    text-align: center;
+    height: 80vh;
+    padding-top: 27vw;
+}
+
+h1 {
+    font-size: 72px;
+    font-weight: 300;
+    margin: 0;
+}
+
+
+.titles {
+    color: $main-color;
+    font-family: "Roboto Slab", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.paragraphs {
+    color: $main-color;
+    font-family: Roboto, sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 30px;
+    white-space: pre-line;
+}
+
+.title-ournews {
+    margin-top: -10px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    color: #31353e;
+    font-family: "Roboto Slab", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.newsletter-background {
+    height: 40vh;
+
+    h3 {
+        color: $main-color;
+        font-family: "Roboto Slab", sans-serif;
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 48px;
+        text-align: center;
+        padding-top: 50px;
+        margin: 0;
+        margin-top: -25px;
+    }
+
+    p {
+        display: block;
+        color: #ffffff;
+        font-family: Roboto, sans-serif;
+        font-size: 15px;
+        font-weight: 300;
+        line-height: 24px;
+        text-align: center;
+    }
+}
+
+.list-ipsum {
+    padding-bottom: 10vw;
+}
+
+

@@ -1,0 +1,59 @@
+.button-read {
+    display: inline-block;
+    border-radius: 40px;
+    background-color: $main-color;
+    color: #612316;
+    font-family: "Roboto Slab", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 10px 60px 10px 63px;
+    height: 8vh;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    margin-left: 27em;
+
+    &:hover {
+        background-color: #4b4e73;
+    }
+}
+
+.read-link {
+    display: inline-block;
+    border-radius: 25px;
+    background-color: $main-color;
+    color: #4e5159;
+    font-family: Roboto, sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 30px;
+    padding: 10px 52px 10px 56px;
+    margin-bottom: 70px;
+}
+
+.link-sign1 {
+    display: inline-block;
+    border-radius: 27px;
+    background-color: $primary-color;
+    font-family: "Roboto Slab", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 10px 50px;
+
+    &:hover {
+        background-color: #4b4e73;
+
+    }
+
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: center;
+
+    li {
+        margin-right: 10rem;
+    }
+}
+
